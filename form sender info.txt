@@ -1,0 +1,7 @@
+Replace the Fields in the mail tab of contact form as follows
+
+form 7 : M1 Security Quote <admin@marinelanka.com>
+
+additional header: Reply-To: [your-email]
+Cc: operations@marinelanka.lk, anuranga@marinelanka.com, muhseen@marinelanka.lk
+Cc: anfasrockstreet@gmail.lk,anfaz@marinelanka.com
